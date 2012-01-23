@@ -1,0 +1,220 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0 auto;
+	background-image:url(../images/background.gif);
+	background-repeat: repeat-x;
+	background-color: #a7847c;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: medium;
+	color: #222;
+}
+
+hr {
+	color:inherit;
+	height: 8px;
+	background-color: #D1C2F2;
+}
+
+.content_title {
+	font-size: 1.5em;
+	font-weight: bold;
+	padding-left:40px;
+	padding-bottom: 10px;
+}
+
+.colborder {
+	border-right: solid 8px #D1C2F2;
+}
+
+#header p {
+	margin: 0 auto;
+	line-height:0px;
+	text-align:center;
+}
+
+#subheader {
+	text-align: center;
+	padding: 12px 0 0 0;
+}
+
+#subheader h1 {
+	font-size: 2.25em;
+	font-family: 'Droid Serif', arial, serif;
+}
+
+#wrap {
+	background-color: #F2EFC2;
+	border-style:ridge;
+	border-width:10px;
+	border-color:#D9D6D0;
+	padding: 10px 10px 10px 10px;
+	color:inherit;
+	margin-top:-4px;
+}
+
+.page_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 1.8em;
+	line-height: 6px;
+	padding-top:20px;
+}
+
+#oferta {
+	border-right: solid 8px #D1C2F2;
+}
+
+#oferta p{
+	text-indent: 40px;
+}
+
+#oferta_title {
+	display: inline;
+	font-size: 2em;
+	font-weight: bold;
+	color: red;
+	font-family: "Lucida Console", Monaco, monospace;
+	background-color: inherit;
+}
+
+#oferta_title_long {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 1.8em;
+	line-height: 30px;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+
+#oferta ul {
+	list-style-type:square;
+	overflow: hidden;
+}
+
+#oferta ul{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.head-list{
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+#content {
+	font-size: 1.05em;
+}
+
+#content h2, #detalii {
+	font-family:"Comic Sans MS", cursive;
+	font-size: 1.4em;
+	text-indent: 50px;
+}
+
+#detalii img{
+	padding-left:10px;
+}
+
+#content ul {
+	list-style-type:none;
+	margin-left: -60px;
+	margin-top: -40px;
+}
+
+#content .lista_bullet {
+	list-style-type:disc;
+}
+
+#content #lista_acces {
+	float:right;
+}
+
+#content #lista_descriere {
+	margin-left: 20px;
+}
+
+#content #double_list{
+	padding-left:20px;
+	padding-top:5px;
+}
+
+#content #descriere_camere {
+	font-family:"Courier New", Courier, monospace;
+	text-transform:uppercase;
+	font-size:1.4em;
+	font-weight:bold;
+}
+
+#sidebar {
+	border-left: 12px;
+	padding-top: 30px;
+}
+
+#sidebar #links {
+	padding-top:20px;
+}
+
+#sidebar ul{
+	list-style-type:none;
+}
+
+#navigation {
+	margin-top: -10px;
+	padding-bottom: 20px;
+	margin-left: 30px;
+}
+
+#navigation ul {
+	list-style-type:none;
+}
+
+#navigation ul li {
+	padding-bottom: 6px;
+	width:180px;
+}
+
+#navigation ul li a {
+	display:block;
+	padding: 6px;
+	text-transform:uppercase;
+	text-align: center;
+	text-decoration:none;
+	color:#FFFFFF;
+	background-color:#4EA62F;
+	font-weight: bold;
+}
+
+#navigation ul li a:hover, #navigation ul li a.active {
+	background-color:#30661D;
+	color: white;
+}
+
+#facebook {
+	float:right;
+}
+
+#footer {
+	border-top: 8px solid #6b544f;
+	background-color: #f1eb99;
+	color:inherit;
+	clear: both;
+}
+
+#footer p {
+	font-family: 'Droid Serif', arial, serif;
+	margin: 0 auto;
+	padding: 10px;
+	width: 950px;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-align: center;
+}
+
+#footer p img {
+	float:right;
+}
+
+#footer a{
+	text-decoration:none;
+}
