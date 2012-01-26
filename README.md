@@ -1,1 +1,3 @@
-http://www.vilacrinilor.ro/
+```http://vilacrinilor.ro/
+
+Pure HTML website for a lodging, in Romania
