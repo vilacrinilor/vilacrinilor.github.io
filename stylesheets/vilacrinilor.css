@@ -67,7 +67,7 @@ hr {
 }
 
 #oferta p{
-	text-indent: 40px;
+    margin:0;
 }
 
 #oferta_title {
@@ -91,10 +91,29 @@ hr {
 #oferta ul {
 	list-style-type:square;
 	overflow: hidden;
+    margin:0;
+}
+
+#oferta ul li{
+    font-weight:bold;
+}
+
+#oferta ul ul{
+    list-style-type:circle;
+}
+
+#oferta ul ul li{
+    font-weight:normal !important;
 }
 
 #oferta ul{
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.minor{
+    font-size: 80%;
+    color: #C0C0C0;
+    padding-left:35px;
 }
 
 .head-list{
