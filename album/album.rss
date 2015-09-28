@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Vila Crinilor</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description>Calimanesti - Caciulata</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20150811_074858</title>
+            <link>slides/20150811_074858.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150811_074858.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/20150811_074858.jpg" width="960" height="540"/>
+            <jalbum:exif originalDate="Tue, 11 Aug 2015 07:48:58 +0300" cameraMake="SAMSUNG" cameraModel="SM-G530FZ"/>
+            <guid isPermaLink="false">slides/20150811_074858.jpg</guid>
+        </item>
+        <item>
+            <title>20150811_074941</title>
+            <link>slides/20150811_074941.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150811_074941.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/20150811_074941.jpg" width="960" height="540"/>
+            <jalbum:exif originalDate="Tue, 11 Aug 2015 07:49:40 +0300" cameraMake="SAMSUNG" cameraModel="SM-G530FZ"/>
+            <guid isPermaLink="false">slides/20150811_074941.jpg</guid>
+        </item>
+        <item>
+            <title>20150811_093530</title>
+            <link>slides/20150811_093530.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150811_093530.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/20150811_093530.jpg" width="960" height="540"/>
+            <jalbum:exif originalDate="Tue, 11 Aug 2015 09:35:29 +0300" cameraMake="SAMSUNG" cameraModel="SM-G530FZ"/>
+            <guid isPermaLink="false">slides/20150811_093530.jpg</guid>
+        </item>
+        <item>
+            <title>20150811_102722</title>
+            <link>slides/20150811_102722.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150811_102722.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/20150811_102722.jpg" width="960" height="540"/>
+            <jalbum:exif originalDate="Tue, 11 Aug 2015 10:27:22 +0300" cameraMake="SAMSUNG" cameraModel="SM-G530FZ"/>
+            <guid isPermaLink="false">slides/20150811_102722.jpg</guid>
+        </item>
+        <item>
+            <title>FILE0567</title>
+            <link>slides/FILE0567.JPG</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FILE0567.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/FILE0567.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/FILE0567.JPG</guid>
+        </item>
+        <item>
+            <title>FILE0587</title>
+            <link>slides/FILE0587.JPG</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FILE0587.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/FILE0587.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/FILE0587.JPG</guid>
+        </item>
+        <item>
+            <title>FILE0603</title>
+            <link>slides/FILE0603.JPG</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FILE0603.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/FILE0603.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/FILE0603.JPG</guid>
+        </item>
+        <item>
+            <title>IMAG0041</title>
+            <link>slides/IMAG0041.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMAG0041.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMAG0041.jpg" width="900" height="538"/>
+            <guid isPermaLink="false">slides/IMAG0041.jpg</guid>
+        </item>
+        <item>
+            <title>IMAG0055</title>
+            <link>slides/IMAG0055.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMAG0055.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMAG0055.jpg" width="900" height="538"/>
+            <guid isPermaLink="false">slides/IMAG0055.jpg</guid>
+        </item>
+        <item>
+            <title>IMAG0056</title>
+            <link>slides/IMAG0056.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMAG0056.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMAG0056.jpg" width="900" height="538"/>
+            <guid isPermaLink="false">slides/IMAG0056.jpg</guid>
+        </item>
+        <item>
+            <title>IMAG0068</title>
+            <link>slides/IMAG0068.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMAG0068.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMAG0068.jpg" width="900" height="538"/>
+            <guid isPermaLink="false">slides/IMAG0068.jpg</guid>
+        </item>
+        <item>
+            <title>IMAG0072</title>
+            <link>slides/IMAG0072.jpg</link>
+            <pubDate>Mon, 28 Sep 2015 15:51:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMAG0072.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMAG0072.jpg" width="900" height="538"/>
+            <guid isPermaLink="false">slides/IMAG0072.jpg</guid>
+        </item>
+    </channel>
+</rss>
