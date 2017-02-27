@@ -4,5 +4,8 @@
   },
   "hosting": {
     "public": "."
+    "ignore": [
+        ".git/**"
+    ]
   }
 }
